@@ -1,0 +1,33 @@
+h1{
+    color: #1b7232;
+    font-size: 30px;
+}
+p{
+    color: #1b7232;
+    font-size: 14px;
+    font-weight: normal;
+}
+div{
+    width: 600px;
+    float: left;
+    border: 1px solid #1b7232;
+    /*
+    border-top: 1px solid #1b7232;
+    -right ; -bottom ; -left;
+     */
+    margin: 10px;
+    text-align: center;
+}
+body{
+    background-image: url("../images/16.jpg");
+    font-size: 500px;
+}
+.dv1{
+    background-color: antiquewhite;
+}
+.dv2{
+    background-color: aqua;
+}
+.p1{
+    color: coral;
+}
