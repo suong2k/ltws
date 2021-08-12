@@ -1,0 +1,30 @@
+* {
+    font-family: "Karma", sans-serif;
+    width: 100%;
+}
+.row{
+    float: left;
+}
+.div{
+    display: block;
+}
+.top{
+    font-size: 50px;
+}
+html, body {
+    font-size: 15px;
+    line-height: 1.5;
+    width: auto;
+    text-align: center;
+}
+.padding-16 .item {
+    float: left;
+    margin: 5px;
+    width: 300px;
+}
+.third {
+    float: left;
+    width: 400px;
+    text-align: left;
+}
+
